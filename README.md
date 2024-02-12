@@ -4,7 +4,7 @@ Below are the 3 manipulators DH parametric table, with their kinematic diagrams
 # CARTESIAN_G5_Assignment_2024
 
 2. SCARA 
-
+![SCARA](https://github.com/Mikamikss/CARTESIAN_G5_Assignment_2024/assets/158114394/a652c409-ff7e-48a6-8ab8-b1eee40365d6)
 
 
 3. Cartesian Manipulator On Ceiling
