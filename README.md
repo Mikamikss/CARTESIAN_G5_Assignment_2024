@@ -37,7 +37,7 @@ SCARA.plot([0 0 0 0], 'workspace', [-10 15 -15 10 -5 20])
 SCARA.teach
 
 
-3. SCARA - PRR MANIPULATOR
+2. SCARA - PRR MANIPULATOR
 ![SCARA](https://github.com/Mikamikss/CARTESIAN_G5_Assignment_2024/assets/158114394/a652c409-ff7e-48a6-8ab8-b1eee40365d6)
 
 disp('Spherical')
@@ -70,7 +70,7 @@ Spherical.plot([0 0 0], 'workspace', [-10 15 -10 10 -5 20])
 Spherical.teach
 
 
-5. Cartesian Manipulator On Ceiling
+3. Cartesian Manipulator On Ceiling
    ![IMG20240212080231](https://github.com/CKeeeent/CARTESIAN_G5_Assignment_2024/assets/159670239/649695c9-b0df-45f1-80cd-c707b4ef90d6)
 
 disp('Cartesian')
