@@ -57,6 +57,8 @@ H3_4 = Link([0,0,a4,0,0,0]); H3_4.qlim = pi/180*[-90 90];
 %% Build the Mechanical Manipulator SCARA = SerialLink([H0_1 H1_2 H2_3 H3_4], 'name', 'SCARA'); SCARA.plot([0 0 0 0], 'workspace', [-10 15 -15 10 -5 20]) SCARA.teach
 
 
+
+
 3. Cartesian Manipulator On Ceiling
    ![IMG20240212080231](https://github.com/CKeeeent/CARTESIAN_G5_Assignment_2024/assets/159670239/649695c9-b0df-45f1-80cd-c707b4ef90d6)
 
