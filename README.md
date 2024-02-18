@@ -35,7 +35,7 @@ Spherical.teach
 
 
 
-2. SCARA - PRR MANIPULATOR
+2. SCARA - PRR Variant
 ![SCARA](https://github.com/Mikamikss/CARTESIAN_G5_Assignment_2024/assets/158114394/a652c409-ff7e-48a6-8ab8-b1eee40365d6)
 
 disp('SCARA_PRR')
